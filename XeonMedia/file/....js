@@ -1,0 +1,3 @@
+{
+	"name": "ThakkBot Multi Device "
+}
